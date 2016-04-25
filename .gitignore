@@ -234,3 +234,8 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/StateAsync/Properties/AssemblyInfo.cs
+/StateAsync/Class1.cs
+/StateAsync/StateAsync.csproj
+*.sln
+*.gitattributes
